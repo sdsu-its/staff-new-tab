@@ -1,7 +1,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html lang="en">
 <head>
-  <title>HUB</title>
+  <title>ITS Staff Links</title>
 <style type="text/css">
   * {
     box-sizing: border-box;
@@ -168,7 +168,7 @@
   <ul class="tools">
     <li>
       <a href="https://blackboard.sdsu.edu/" class="red">
-        <span class="title">BlackBoard</span>
+        <span class="title">Blackboard</span>
         <span class="description">Learn Online</span>
       </a>
     </li>
