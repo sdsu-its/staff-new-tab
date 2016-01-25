@@ -185,9 +185,21 @@
     	</a>
     </li>
     <li>
-      <a href="https://rohan-search-prod.herokuapp.com" class="gold">
-        <span class="title">Rohan Search</span>
+      <a href="#" class="gold">
+        <span class="title">MediaSite Search</span>
         <span class="description">Search Digitized Media</span>
+      </a>
+    </li>
+    <li>
+      <a href="morden.sdsu.edu/fit_welcome" class="gold">
+        <span class="title">FIT Welcome</span>
+        <span class="description">Visitor Tracking</span>
+      </a>
+    </li>
+    <li>
+      <a href="morden.sdsu.edu/fit_welcome/live" class="gold">
+        <span class="title">FIT Live Dashboard</span>
+        <span class="description">Visitor Tracking</span>
       </a>
     </li>
     <li>
@@ -206,12 +218,6 @@
       <a href="https://drive.google.com/" class="gray">
         <span class="title">Google Drive</span>
         <span class="description">&nbsp;</span>
-      </a>
-    </li>
-    <li>
-      <a href="https://gmail.com/" class="gray">
-        <span class="title">Gmail</span>
-        <span class="description">Access your mail.sdsu.edu Email Account</span>
       </a>
     </li>
   </ul>
