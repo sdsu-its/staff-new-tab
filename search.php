@@ -1,7 +1,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html lang="en">
 <head>
-  <title>ITS Staff Links</title>
+  <title>Digitization Intake Tools</title>
 <style type="text/css">
   * {
     box-sizing: border-box;
@@ -22,7 +22,7 @@
 
   body > h1 {
     text-align: center;
-    margin-bottom: 0px;
+    margin-bottom: 1em;
     font-size: 3em;
     color: #3a3a3a;
   }
@@ -89,7 +89,7 @@
 
   ul.tools li {
     width: 100%;
-    max-width: 50%;
+/*     max-width: 50%; */
     display: block;
     list-style-type: none;
     padding: 0.5rem;
@@ -159,59 +159,31 @@
   </style>
 </head>
 <body>
-  <h1>
-    <a href="http://its.sdsu.edu" target="_blank">
-      <img id="logo" src="./its_logo.png" alt="ITS Logo">
-    </a>
-  </h1>
-  <p><i>Useful Links for SDSU ITS Staff Members</i></p>
+  <h1>Digitization Tools</h1>
   <ul class="tools">
-    <li>
-      <a href="https://blackboard.sdsu.edu/" class="red">
-        <span class="title">Blackboard</span>
-        <span class="description">Learn Online</span>
-      </a>
-    </li>
-    <li>
-      <a href="https://sunspot.sdsu.edu/schedule/search" class="red">
-    	<span class="title">Course Schedule</span>
-    	<span class="description">&nbsp;</span>
+  	<li>
+      <a href="http://morden.sdsu.edu/rohan_search/" class="red">
+    	<span class="title">ROHAN Search</span>
+    	<span class="description">Search for Media from our Legacy System</span>
     	</a>
     </li>
     <li>
-      <a href="https://phonebook.sdsu.edu/" class="red">
-    	<span class="title">Phone Book</span>
-    	<span class="description">Contact Information for all SDSU Staff and Faculty</span>
+      <a href="https://mediasite.sdsu.edu/Mediasite/Login" class="red">
+    	<span class="title">MediaSite</span>
+    	<span class="description">Search for Media in our New System</span>
     	</a>
     </li>
     <li>
-      <a href="search.php" class="gold">
-        <span class="title">Digitization Tools</span>
-        <span class="description">Intake Form, Search Tools, etc.</span>
+      <a href="https://docs.google.com/forms/d/1m-j3Ep59cf5h3ISETvP3Aqrw9id0x5UO1OGJUzSXWec/viewform" class="gold">
+        <span class="title">Intake Form</span>
+        <span class="description">Submit Media Information to Video Team</span>
       </a>
     </li>
-    <li>
-      <a href="http://morden.sdsu.edu/fit_welcome/live" class="gold">
-        <span class="title">FIT Live Dashboard</span>
-        <span class="description">Visitor Tracking</span>
-      </a>
     </li>
     <li>
       <a href="https://sdsu-its.desk.com/agent" class="black">
         <span class="title">Desk.com</span>
         <span class="description">Support Tickets</span>
-      </a>
-    </li>
-    <li>
-      <a href="https://secure.acuityscheduling.com/appointments.php" class="black">
-        <span class="title">Acuity Scheduling</span>
-        <span class="description">FIT Center Appointment Scheduling</span>
-      </a>
-    </li>
-    <li>
-      <a href="https://drive.google.com/" class="gray">
-        <span class="title">Google Drive</span>
-        <span class="description">&nbsp;</span>
       </a>
     </li>
   </ul>
