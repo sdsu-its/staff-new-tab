@@ -162,6 +162,12 @@
   <h1>Digitization Tools</h1>
   <ul class="tools">
     <li>
+      <a href="../digitization-protocol.pdf" class="red">
+        <span class="title">Digitization Protocol</span>
+        <span class="description">&nbsp;</span>
+      </a>
+    </li>
+    <li>
       <a href="https://docs.google.com/forms/d/1m-j3Ep59cf5h3ISETvP3Aqrw9id0x5UO1OGJUzSXWec/viewform" class="gold">
         <span class="title">Intake Form</span>
         <span class="description">Submit Media Information to Video Team</span>
