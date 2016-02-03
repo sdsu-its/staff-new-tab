@@ -161,18 +161,6 @@
 <body>
   <h1>Digitization Tools</h1>
   <ul class="tools">
-  	<li>
-      <a href="http://morden.sdsu.edu/rohan_search/" class="red">
-    	<span class="title">ROHAN Search</span>
-    	<span class="description">Search for Media from our Legacy System</span>
-    	</a>
-    </li>
-    <li>
-      <a href="https://mediasite.sdsu.edu/Mediasite/Login" class="red">
-    	<span class="title">MediaSite</span>
-    	<span class="description">Search for Media in our New System</span>
-    	</a>
-    </li>
     <li>
       <a href="https://docs.google.com/forms/d/1m-j3Ep59cf5h3ISETvP3Aqrw9id0x5UO1OGJUzSXWec/viewform" class="gold">
         <span class="title">Intake Form</span>
@@ -185,6 +173,18 @@
         <span class="title">Desk.com</span>
         <span class="description">Support Tickets</span>
       </a>
+    </li>
+    <li>
+      <a href="http://morden.sdsu.edu/rohan_search/" class="red">
+    	<span class="title">ROHAN Search</span>
+    	<span class="description">Search for Media from our Legacy System</span>
+    	</a>
+    </li>
+    <li>
+      <a href="https://mediasite.sdsu.edu/Mediasite/Login" class="red">
+    	<span class="title">MediaSite</span>
+    	<span class="description">Search for Media in our New System</span>
+    	</a>
     </li>
   </ul>
 
