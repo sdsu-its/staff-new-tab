@@ -162,7 +162,7 @@
   <h1>Digitization Tools</h1>
   <ul class="tools">
     <li>
-      <a href="../digitization-protocol.pdf" class="red">
+      <a href="digitization-protocol.pdf" class="red">
         <span class="title">Digitization Protocol</span>
         <span class="description">&nbsp;</span>
       </a>
