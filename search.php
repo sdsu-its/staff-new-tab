@@ -89,7 +89,7 @@
 
   ul.tools li {
     width: 100%;
-/*     max-width: 50%; */
+    max-width: 50%;
     display: block;
     list-style-type: none;
     padding: 0.5rem;
@@ -164,6 +164,12 @@
     <li>
       <a href="digitization-protocol.pdf" class="red">
         <span class="title">Digitization Protocol</span>
+        <span class="description">&nbsp;</span>
+      </a>
+    </li>
+    <li>
+      <a href="intake-form.pdf" class="red">
+        <span class="title">Digitization Intake Form</span>
         <span class="description">&nbsp;</span>
       </a>
     </li>
