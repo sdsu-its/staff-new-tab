@@ -192,7 +192,7 @@
         <td>
             <ul class="tools">
                 <li>
-                    <a href="Digitization-Protocol.pdf" class="red">
+                    <a href="digitization-protocol.pdf" class="red">
                         <span class="title">Digitization Protocol</span>
                         <span class="description">&nbsp;</span>
                     </a>
