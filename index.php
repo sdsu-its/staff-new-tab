@@ -182,8 +182,8 @@
     </li>
     <li>
         <a href="http://morden.sdsu.edu/fit_welcome/live" class="gold">
-            <span class="title">FIT Live Dashboard</span>
-            <span class="description">Visitor Tracking</span>
+            <span class="title">Morden</span>
+            <span class="description">WebApp Listing</span>
         </a>
     </li>
     <li>
