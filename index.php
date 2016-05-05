@@ -181,7 +181,7 @@
         </a>
     </li>
     <li>
-        <a href="http://morden.sdsu.edu/fit_welcome/live" class="gold">
+        <a href="http://morden.sdsu.edu/" class="gold">
             <span class="title">Morden</span>
             <span class="description">WebApp Listing</span>
         </a>
