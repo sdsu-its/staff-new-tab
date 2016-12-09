@@ -1,0 +1,171 @@
+* {
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+html {
+    width: 100%;
+}
+
+body {
+    font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+    width: 100%;
+    margin: 0 !important;
+}
+
+body > h1 {
+    text-align: center;
+    font-size: 3em;
+    color: #3a3a3a;
+}
+
+body > h2 {
+    text-align: center;
+    margin-bottom: .5em;
+    font-size: 2em;
+    color: #3a3a3a;
+}
+
+body > p {
+    text-align: center;
+    margin-top: .5em;
+    color: #555;
+}
+
+footer {
+    position: absolute;
+    bottom: 0em;
+    left: 0em;
+    width: 100%;
+    background: #DFD29D;
+}
+
+footer > a {
+    color: #fcd116;
+    font-weight: bold;
+    font-size: 1.5em;
+    text-decoration: none;
+    position: absolute;
+    padding-bottom: .5em;
+    bottom: 2em;
+    left: 1.5em;
+}
+
+footer > p {
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-bottom: 0em;
+    color: #4A4C92;
+}
+
+table {
+    margin: auto;
+    max-width: 75%;
+}
+
+td {
+    width: 50%;
+}
+
+.header {
+    text-align: center;
+}
+
+#copyright {
+    bottom: .5em;
+    left: 2em;
+    padding-top: .25em;
+}
+
+#logo {
+    height: 100px;
+    padding-bottom: .25em;
+}
+
+#disclaimer {
+    bottom: .7em;
+    left: 2em;
+}
+
+#f-link {
+    text-decoration: none;
+    color: #4A4C92;
+}
+
+ul.tools {
+    width: 100%;
+    max-width: 1024px;
+    margin: 0 auto;
+    padding: 0 1rem;
+}
+
+ul.tools li {
+    width: 100%;
+    /*max-width: 50%;*/
+    display: block;
+    list-style-type: none;
+    padding: 0.5rem;
+    float: left;
+}
+
+@media (max-width: 800px) {
+    ul.tools li {
+        max-width: 100%;
+        float: none;
+    }
+}
+
+ul.tools li a {
+    padding: 2rem;
+    border: 2px solid #d41243;
+    display: block;
+    padding: 1rem;
+    color: #000;
+    text-decoration: none;
+}
+
+ul.tools li a span.title {
+    display: block;
+    font-size: 1.5rem;
+}
+
+ul.tools li a span.description {
+    display: block;
+    font-size: 0.75rem;
+}
+
+ul.tools li a.red {
+    border-color: #A81933;
+}
+
+ul.tools li a.gold {
+    border-color: #D2C694;
+}
+
+ul.tools li a.black {
+    border-color: #000000;
+}
+
+ul.tools li a.gray {
+    border-color: #909090;
+}
+
+ul.tools li a span.title {
+    display: block;
+    font-size: 1.5rem;
+}
+
+ul.tools li a span.description {
+    display: block;
+    font-size: 0.75rem;
+}
+
+.full {
+    width: 100%;
+}
+
+#logo {
+    align-content: center;
+}
