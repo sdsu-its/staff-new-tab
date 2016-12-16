@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <title>ITS Staff Links</title>
-    <link src="style.css" type="text/css">
+    <link href="style.css" type="text/css" rel="stylesheet">
 </head>
 <body>
 <h1>
