@@ -103,7 +103,7 @@ ul.tools {
 
 ul.tools li {
     width: 100%;
-    /*max-width: 50%;*/
+    max-width: 50%;
     display: block;
     list-style-type: none;
     padding: 0.5rem;
