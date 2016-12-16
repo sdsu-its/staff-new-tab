@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <title>Digitization Intake Tools</title>
-    <link href="style.css" type="text/css">
+    <link src="style.css" type="text/css">
 </head>
 <body>
 <h1>Digitization Tools</h1>
