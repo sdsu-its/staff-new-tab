@@ -37,9 +37,9 @@
         </a>
     </li>
     <li>
-        <a href="http://morden.sdsu.edu/" class="gold">
-            <span class="title">Morden</span>
-            <span class="description">WebApp Listing</span>
+        <a href="devops.php" class="gold">
+            <span class="title">Web App & DevOps Resources</span>
+            <span class="description">WebApps and Development Operations tool list</span>
         </a>
     </li>
     <li>
