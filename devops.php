@@ -5,7 +5,8 @@
     <link href="style.css" type="text/css" rel="stylesheet">
 </head>
 <body>
-<h1>Web Applications & Development Operations Tools</h1>
+<h1>Web Applications & <br>
+    Development Operations Tools</h1>
 <table align="center">
     <tr>
         <td class="header">
@@ -17,7 +18,7 @@
     </tr>
     <tr>
         <td>
-            <ul class="tools">
+            <ul class="tools full-width">
                 <li>
                     <a href="http://morden.sdsu.edu.fit_welcome" class="black">
                         <span class="title">FIT Welcome</span>
@@ -39,7 +40,7 @@
             </ul>
         </td>
         <td>
-            <ul class="tools">
+            <ul class="tools full-width">
                 <li>
                     <a href="https://github.com/sdsu-its" class="gray">
                         <span class="title">GitHub</span>

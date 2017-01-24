@@ -110,6 +110,14 @@ ul.tools li {
     float: left;
 }
 
+ul.full-width li {
+    max-width: 100%;
+}
+
+table tr {
+    vertical-align: top;
+}
+
 @media (max-width: 800px) {
     ul.tools li {
         max-width: 100%;
@@ -118,7 +126,6 @@ ul.tools li {
 }
 
 ul.tools li a {
-    padding: 2rem;
     border: 2px solid #d41243;
     display: block;
     padding: 1rem;

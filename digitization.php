@@ -17,7 +17,7 @@
     </tr>
     <tr>
         <td>
-            <ul class="tools">
+            <ul class="tools full-width">
                 <li>
                     <a href="digitization-protocol.pdf" class="red">
                         <span class="title">Digitization Protocol</span>
@@ -40,7 +40,7 @@
             </ul>
         </td>
         <td>
-            <ul class="tools">
+            <ul class="tools full-width">
                 <li>
                     <a href="intake-form.pdf" class="red">
                         <span class="title">Printable Request Form</span>
