@@ -1,11 +1,11 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html lang="en">
 <head>
-    <title>Web Applications & Development Operations Tools</title>
+    <title>Web Applications &amp; Development Operations Tools</title>
     <link href="style.css" type="text/css" rel="stylesheet">
 </head>
 <body>
-<h1>Web Applications & <br>
+<h1>Web Applications &amp; <br>
     Development Operations Tools</h1>
 <table align="center">
     <tr>
@@ -20,7 +20,7 @@
         <td>
             <ul class="tools full-width">
                 <li>
-                    <a href="http://morden.sdsu.edu.fit_welcome" class="black">
+                    <a href="http://morden.sdsu.edu/fit_welcome" class="black">
                         <span class="title">FIT Welcome</span>
                         <span class="description">Track Visits for analytics and ensuring client satisfaction</span>
                     </a>
@@ -34,7 +34,7 @@
                 <li>
                     <a href="http://morden.sdsu.edu/tap_tkr" class="gold">
                         <span class="title">Tap Tracker</span>
-                        <span class="description">Track IOT Events</span>
+                        <span class="description">Track IoT Events</span>
                     </a>
                 </li>
             </ul>
@@ -50,7 +50,7 @@
                 <li>
                     <a href="http://morden.sdsu.edu:9050" class="black">
                         <span class="title">Single Sign On</span>
-                        <span class="description">Login to Development Operations tools vai GitHub</span>
+                        <span class="description">Login to Development Operations tools via GitHub</span>
                     </a>
                 </li>
                 <li>
